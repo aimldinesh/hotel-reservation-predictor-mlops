@@ -3,7 +3,7 @@ pipeline{
 
     environment{
         VENV_DIR = 'venv'
-        CP_PROJECT = "proven-splicer-458605-g2"
+        GCP_PROJECT = "proven-splicer-458605-g2"
         GCLOUD_PATH = "/var/jenkins_home/google-cloud-sdk/bin"
     }
 
